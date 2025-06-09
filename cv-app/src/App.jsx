@@ -3,7 +3,7 @@ function App() {
 
 
   return (
-    <div className="text-3xl font-bold underline bg-slate-700">
+    <div className="w-screen h-screen bg-red-50">
     Hello world!
     </div>
   )
