@@ -1,10 +1,10 @@
+import GeneralInfo from './components/ResumeForm.jsx'
+
 
 function App() {
-
-
   return (
     <div className="w-screen h-screen bg-red-50">
-    Hello world!
+      <GeneralInfo />
     </div>
   )
 }
