@@ -4,3 +4,9 @@ html, body {
     margin: 0;
     padding: 0;
   }
+  @layer base {
+    html {
+      font-size: 10px; /* Sets base font size */
+      font-family: 'Bookman', 'Helvetica Neue', Arial, sans-serif;
+    }
+  }
